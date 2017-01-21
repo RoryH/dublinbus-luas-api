@@ -10,3 +10,14 @@ endpoints:
 /luas/stops
 /luas/stop/{stop_id}
 ```
+
+### Requires
+
+* nodejs v7 +
+
+### To run
+
+```
+npm install
+npm start
+```
