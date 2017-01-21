@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Real-time JSON API's for Luas and Dublin Bus",
   "main": "dublintransit.js",
+  "engines" :{
+    "node" : ">=7"
+  },
   "scripts": {
-    "test": "echo \"No tests yet\"; exit 1;"
+    "test": "echo \"No tests yet\"; exit 1;",
+    "start": "node --harmony-async-await dublintransit.js"
   },
   "author": "Rory Haddon",
   "license": "MIT",
