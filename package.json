@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Real-time JSON API's for Luas and Dublin Bus",
   "main": "dublintransit.js",
-  "engines" :{
-    "node" : ">=7"
+  "engines": {
+    "node": ">=7"
   },
   "scripts": {
     "test": "echo \"No tests yet\"; exit 1;",
@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "hapi": "^16.1.0",
+    "hapi-cors-headers": "^1.0.0",
     "request": "^2.79.0",
     "soap": "^0.18.0",
     "xml2js": "^0.4.17"
