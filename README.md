@@ -4,16 +4,17 @@ api for real-time information for Dublin Bus and Luas written in nodejs using ha
 endpoints:
 
 ```
-/bus/route/{route_number}
-/bus/stop/{stop_number}
+GET /bus/routes
+GET /bus/route/{route_number}
+GET /bus/stop/{stop_number}
 
-/luas/stops
-/luas/stop/{stop_id}
+GET /luas/stops
+GET /luas/stop/{stop_id}
 ```
 
 ### Requires
 
-* nodejs v7 +
+* nodejs v8 +
 
 ### To run
 

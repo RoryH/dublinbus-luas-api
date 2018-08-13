@@ -4,7 +4,7 @@
   "description": "Real-time JSON API's for Luas and Dublin Bus",
   "main": "dublintransit.js",
   "engines": {
-    "node": ">=7"
+    "node": ">=8"
   },
   "scripts": {
     "test": "echo \"No tests yet\"; exit 1;",
