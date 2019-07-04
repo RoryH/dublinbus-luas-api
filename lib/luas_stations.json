@@ -2,6 +2,162 @@
 {
   "stations": [
     {
+      "shortName": "BRO",
+      "displayName": "Broombridge",
+      "displayIrishName": "Broombridge",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "CAB",
+      "displayName": "Cabra",
+      "displayIrishName": "Cabra",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "PHI",
+      "displayName": "Phibsborough",
+      "displayIrishName": "Phibsborough",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "GRA",
+      "displayName": "Grangegorman",
+      "displayIrishName": "Grangegorman",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "BRD",
+      "displayName": "Broadstone DIT",
+      "displayIrishName": "Broadstone DIT",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "DOM",
+      "displayName": "Dominick",
+      "displayIrishName": "Dominick",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "PAR",
+      "displayName": "Parnell",
+      "displayIrishName": "Parnell",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "OUP",
+      "displayName": "O'Connell Upper",
+      "displayIrishName": "O'Connell Upper",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "OGP",
+      "displayName": "O'Connell GPO",
+      "displayIrishName": "O'Connell GPO",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "MAR",
+      "displayName": "Marlborough",
+      "displayIrishName": "Marlborough",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "WES",
+      "displayName": "Westmoreland",
+      "displayIrishName": "Westmoreland",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "TRY",
+      "displayName": "Trinity",
+      "displayIrishName": "Trinity",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
+      "shortName": "DAW",
+      "displayName": "Dawson",
+      "displayIrishName": "Dawson",
+      "line": "Green",
+      "cycle": 1,
+      "car": 0,
+      "coordinates": {
+        "latitude": 53.339072,
+        "longitude": -6.261333
+      }
+    },
+    {
       "shortName": "STS",
       "displayName": "St. Stephen's Green",
       "displayIrishName": "Faiche Stiabhna",
