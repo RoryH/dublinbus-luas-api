@@ -13,7 +13,7 @@
   "author": "Rory Haddon",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "hapi": "^18.1.0",
     "hapi-cors": "^1.0.3",
     "hapi-cors-headers": "^1.0.0",
